@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a Backend Developer working in Malmö, Sweden.
+
+### BIO
+
+ * 🏢 I'm currently working at Jayway by Devoteam
+ * 🌱 Learning about Open Source, GO, GCP
+ * 📫 Reach me: twitter.com/rezew or instagram.com/zokiioo/
+
 <!--
 **Zokiio/zokiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
