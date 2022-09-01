@@ -4,7 +4,7 @@ I am a Backend Developer working in Malmö, Sweden.
 
 ### BIO
 
- * 🏢 I'm currently working at Jayway by Devoteam
+ * 🏢 I'm currently working at Devoteam Creative Tech
  * 🌱 Learning about Open Source, GO, GCP
  * 📫 Reach me: twitter.com/rezew or instagram.com/zokiioo/
  * 🌐 https://zottik.com
