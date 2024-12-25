@@ -27,4 +27,4 @@ I'm a Backend Developer based in Malmö, Sweden, with over three years of experi
 
 ---
 
-Feel free to check out my repositories or reach out for collaboration!
+Feel free to reach out for collaboration!
