@@ -1,25 +1,30 @@
 ### Hi there 👋
 
-I am a Backend Developer working in Malmö, Sweden.
+I'm a Backend Developer based in Malmö, Sweden, with over three years of experience in developing and maintaining high-quality backend services and cloud infrastructure.
 
-### BIO
+---
 
- * 🏢 I'm currently working at Devoteam Creative Tech
- * 🌱 Learning about Open Source, GO, GCP
- * 📫 Reach me: twitter.com/rezew or instagram.com/zokiioo/
- * 🌐 https://zottik.com
+### About Me
 
-<!--
-**Zokiio/zokiio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏢 Most recently worked at **Devoteam Creative Tech**
+- 🌱 Currently exploring **C#**, **Go**, **GCP**, and **Open Source**
+- 💻 Strong background in backend and full-stack development with expertise in **C#**, **.NET**, **TypeScript**, **NestJS**, and **React**
+- ☁️ Skilled in cloud infrastructure with **GCP** and **Alibaba Cloud**, using **Terraform**
+- ⚙️ Experienced in implementing **CI/CD pipelines** with GitHub Actions
+- 📜 Certified in **Go** and hold an associate's degree in **.NET development**
+- 🤝 Passionate about creating innovative and impactful products
+- 📫 Reach me: [Twitter](https://twitter.com/rezew) | [Instagram](https://instagram.com/zokiioo/)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Toolbox 🛠️
+
+- **Languages:** C#, Go, TypeScript, JavaScript
+- **Frameworks:** .NET, NestJS, React
+- **Cloud Platforms:** GCP, Alibaba Cloud
+- **DevOps:** Terraform, GitHub Actions
+- **Others:** Docker, Kubernetes, Linux
+
+---
+
+Feel free to check out my repositories or reach out for collaboration!
