@@ -1,30 +1,19 @@
-### Hi there 👋
+### Greetings from the Land of Fika & Code! 🇸🇪☕💻
 
-I'm a Backend Developer based in Malmö, Sweden, with over three years of experience in developing and maintaining high-quality backend services and cloud infrastructure.
-
----
-
-### About Me
-
-- 🏢 Most recently worked at **Devoteam Creative Tech**
-- 🌱 Currently exploring **C#**, **Go**, **GCP**, and **Open Source**
-- 💻 Strong background in backend and full-stack development with expertise in **C#**, **.NET**, **TypeScript**, **NestJS**, and **React**
-- ☁️ Skilled in cloud infrastructure with **GCP** and **Alibaba Cloud**, using **Terraform**
-- ⚙️ Experienced in implementing **CI/CD pipelines** with GitHub Actions
-- 📜 Proficient **Go** and hold an associate's degree in **.NET development**
-- 🤝 Passionate about creating innovative and impactful products
-- 📫 Reach me: [Twitter](https://twitter.com/rezew) | [Instagram](https://instagram.com/zokiioo/)
+[![My Brain Runs on Go](https://img.shields.io/badge/Brain%20Fuel-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+[![Cloud Enthusiast - Always Sunny in My Infra](https://img.shields.io/badge/Cloud%20Mood-Sunny-skyblue?style=for-the-badge&logo=amazonaws&logoColor=orange)](#)
+[![Powered by Pixels & Caffeine](https://img.shields.io/badge/Powering-Pixels%20%26%20Caffeine-yellow?style=for-the-badge&logo=coffeescript&logoColor=black)](#)
+[![Homelab Adventures - Proceed with Caution (May Involve Blinking Lights)](https://img.shields.io/badge/Homelab-Adventures-lightgrey?style=for-the-badge&logo=raspberry-pi&logoColor=red)](#)
 
 ---
 
-### My Toolbox 🛠️
+👋 Hello from Helsingborg! By day, I'm diving deep into the cloud and the world of Go at Sigma Technology Software Solutions. By night (and weekends!), you'll likely find me coding up a storm, strategizing in the gaming world, or tinkering away in my ever-evolving homelab. Always curious about how things work and eager to connect on cloud-native adventures or any other interesting tech explorations! ☁️💻🎮
 
-- **Languages:** C#, Go, TypeScript, JavaScript
-- **Frameworks:** .NET, NestJS, React
-- **Cloud Platforms:** GCP, Alibaba Cloud
-- **DevOps:** Terraform, GitHub Actions
-- **Others:** Docker, Kubernetes, Linux
+Always up for some lovely *fika*.
+
+### Connect & Say Hej! 👋
+
+[![Instagram - Visual Proof I Exist](https://img.shields.io/badge/Instagram-Visual%20Proof-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/zokiioo/)
+[![LinkedIn - My Professional Persona (Mostly)](https://img.shields.io/badge/LinkedIn-Professional%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/joakimhall/))
 
 ---
-
-Feel free to reach out for collaboration!
