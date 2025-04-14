@@ -11,7 +11,7 @@ I'm a Backend Developer based in Malmö, Sweden, with over three years of experi
 - 💻 Strong background in backend and full-stack development with expertise in **C#**, **.NET**, **TypeScript**, **NestJS**, and **React**
 - ☁️ Skilled in cloud infrastructure with **GCP** and **Alibaba Cloud**, using **Terraform**
 - ⚙️ Experienced in implementing **CI/CD pipelines** with GitHub Actions
-- 📜 Certified in **Go** and hold an associate's degree in **.NET development**
+- 📜 Proficient **Go** and hold an associate's degree in **.NET development**
 - 🤝 Passionate about creating innovative and impactful products
 - 📫 Reach me: [Twitter](https://twitter.com/rezew) | [Instagram](https://instagram.com/zokiioo/)
 
