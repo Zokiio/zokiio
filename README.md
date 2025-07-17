@@ -14,6 +14,6 @@ Always up for some lovely *fika*.
 ### Connect & Say Hej! 👋
 
 [![Instagram - Visual Proof I Exist](https://img.shields.io/badge/Instagram-Visual%20Proof-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/zokiioo/)
-[![LinkedIn - My Professional Persona (Mostly)](https://img.shields.io/badge/LinkedIn-Professional%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/joakimhall/))
+[![LinkedIn - My Professional Persona (Mostly)](https://img.shields.io/badge/LinkedIn-Professional%20Me-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joakimhall/)
 
 ---
